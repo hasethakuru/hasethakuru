@@ -1,5 +1,7 @@
 ### I'm just your average developer
 
+---
+
 ### Languages I know
 
 - ✨ **Javascript**
