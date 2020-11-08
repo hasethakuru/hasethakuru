@@ -23,7 +23,7 @@
 ---
 
 ### 👏 Friends
-- **[@ItzMeRM](https://github.com/ItzMeRM)**
 - **[@Zyrouge](https://github.com/Zyrouge)**
 - **[@Snowflake107](https://github.com/Snowflake107)**
 - **[@Shade](https://github.com/shadeoxide)**
+- **[@Idot](https://github.com/ItzMeRM)**
