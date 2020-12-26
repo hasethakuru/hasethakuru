@@ -9,7 +9,7 @@
 - 👏 **HTML & CSS**
 - ✍ **Python Basics**
 - 💠 **Ruby Basics**
-- 🌠 **C# & C++ Basics**
+- 🌠 **C# & C++ **
 
 
 ---
