@@ -7,9 +7,9 @@
 - ✨ **Javascript**
 - 💫 **TypeScript**
 - 👏 **HTML & CSS**
-- ✍ **Python Basics**
+- ✍ **Python**
 - 💠 **Ruby Basics**
-- 🌠 **C# & C++ **
+- 🌠 **C# & C++**
 
 
 ---
