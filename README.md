@@ -1,4 +1,4 @@
-### I'm just your average developer
+### Average developer
 
 ---
 
