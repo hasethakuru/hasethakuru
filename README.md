@@ -24,7 +24,7 @@
 
 ### 👏 Friends
 - **[@Zyrouge](https://github.com/Zyrouge)**
-- **[@Snowflake107](https://github.com/Snowflake107)**
+- **[@DevAndromeda](https://github.com/DevAndromeda)**
 - **[@Shade](https://github.com/shadeoxide)**
 - **[@Idot](https://github.com/ItzMeRM)**
 
