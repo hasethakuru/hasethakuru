@@ -2,7 +2,7 @@
 
 ---
 
-### Languages I know
+### I speak
 
 - ✨ **Javascript**
 - 💫 **TypeScript**
