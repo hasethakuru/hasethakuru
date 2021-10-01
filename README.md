@@ -1,5 +1,4 @@
 ### Average developer
-
 ---
 
 ### I speak
@@ -10,9 +9,9 @@
 - ✍ **Python**
 - 💠 **Ruby Basics**
 - 🌠 **C# & C++**
+- 👉  **Currently learning: Machine learning & Neural networks**
 
 
----
 
 ### 💫 Projects 
 
@@ -20,7 +19,7 @@
 - **[RexDB](https://www.npmjs.com/package/rex.db) ➜ Better version of Quick.DB with much more features and flexibility**
 - **[Quick.eco](https://www.npmjs.com/package/quick.eco) ➜ Powerful economy framework for discord bots**
 
----
+
 
 ### 👏 Friends
 - **[@Zyrouge](https://github.com/Zyrouge)**
