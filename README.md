@@ -6,7 +6,6 @@
 - **✍ Python**
 - **☄️ Go**
 - **👾 C++**
-- **👉 Currently learning: Machine learning**
 
 # WakaTime Stats
 
