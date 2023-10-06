@@ -1,4 +1,4 @@
-# 👋 Hello, I'm douma
+# 👋 Hello, I'm Thakuru
 
 # 🗣️ I speak
 
