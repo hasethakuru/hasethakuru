@@ -4,7 +4,6 @@
 
 - **💫 Javascript & Typescript**
 - **🐍 Python**
-- **👾 C++**
 - **🥏 Java**
 
 # 👾 Stats
